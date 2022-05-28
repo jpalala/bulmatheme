@@ -1,7 +1,8 @@
-# Jekyll Boilerplate
+# BulmaTheme for Jekyll Boilerplate
 
-Jekyll Boilerplate is a lightweight and cleaned up version of the initial [Jekyll](https://jekyllrb.com/) setup. The motivation behind this project was for me to avoid doing the same things over and over every time I build yet another site with Jekyll.
+[Jekyll Boilerplate](https://github.com/KittyGiraudel/jekyll-boilerplate) is a lightweight and cleaned up version of the initial [Jekyll](https://jekyllrb.com/) setup. The motivation behind this project was for me to avoid doing the same things over and over every time I build yet another site with Jekyll.
 
+This repo adds the [Bulma](https://bulma.io/) [0.7.4](http://versions.bulma.io/0.7.4/) css framework on top of the Jekyll Boilerplate.
 ## Features
 
 ### Additions
@@ -41,3 +42,4 @@ Jekyll Boilerplate is a lightweight and cleaned up version of the initial [Jekyl
 
 * [Jekyll](https://jekyllrb.com/)
 * [Kitty Giraudel](https://twitter.com/KittyGiraudel)
+* [Joe Palala](https://twitter.com/joepalala1)
