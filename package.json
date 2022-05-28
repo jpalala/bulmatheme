@@ -1,0 +1,33 @@
+{
+  "name": "bulmablog",
+  "version": "0.0.1",
+  "description": "alpha pa ito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css-build": "node-sass --omit-source-map-url sass/mystyles.scss css/mystyles.css",
+    "css-watch": "npm run css-build -- --watch",
+    "start": "npm run css-watch"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpalala/bulmatheme.git"
+  },
+  "keywords": [
+    "bulma",
+    "style",
+    "jekyll",
+    "blogging"
+  ],
+  "author": "Joe Palala <jose.palala@live.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpalala/bulmatheme/issues"
+  },
+  "homepage": "https://github.com/jpalala/bulmatheme#readme",
+  "devDependencies": {
+    "bulma": "^0.9.4",
+    "node-sass": "^7.0.1"
+  }
+}

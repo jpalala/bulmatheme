@@ -17,11 +17,11 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 # Markdown settings
 markdown: kramdown
 
-# Sass settings
-sass:
-  add_charset: true
-  sass_dir: assets/sass
-  style: :compressed
+# Sass settings (we can use npm instead to use bulma and copy to css dir)
+#sass:
+#  add_charset: true
+#  sass_dir: assets/sass
+#  style: :compressed
 
 # Build settings
 exclude:
